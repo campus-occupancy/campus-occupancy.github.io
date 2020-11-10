@@ -1,10 +1,10 @@
 ## Table of contents
 * [Problem](#problem)
 * [Goals](#goals)
-* [Planned Additions to project](#Planned-Additions-to-project)
-* [Mockup page Ideas](#Mockup-page-Ideas)
-* [Case Ideas](#Case-Ideas)
-* [Beyond the Basic](#Beyond-the-Basic)
+* [Planned Additions to project](#planned-additions-to-project)
+* [Mockup page Ideas](#mockup-page-Ideas)
+* [Case Ideas](#case-ideas)
+* [Beyond the Basic](#beyond-the-basic)
 
 ## Problem:
 The challenge is to develop a way for the college to visualize occupancy of the campus.  The three current purposes are to assist in scheduling on the campus, assess social distancing and group density, and help with long term facility planning.  The application is intended for the university administration. The data available is anonymized to protect the identities of the visitors to the campus. 
