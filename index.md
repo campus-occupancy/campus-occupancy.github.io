@@ -11,4 +11,4 @@ Campus Occupancy is an example web application that provides the visualization o
 
 We plan to add ease of access features to make the web application easier for the user. One of these additions would be a slider which filters the population of the building from most dense to least dense. 
 
-![](Images/FRONT-PAGE.jpg)
+![](images/FRONT-PAGE.jpg)
