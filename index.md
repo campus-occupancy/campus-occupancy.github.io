@@ -1,6 +1,6 @@
 ## Table of contents
 * [Problem](#problem)
-* [Goals](#Goals)
+* [Goals](#goals)
 * [Planned Additions to project](#Planned-Additions-to-project)
 * [Mockup page Ideas](#Mockup-page-Ideas)
 * [Case Ideas](#Case-Ideas)
