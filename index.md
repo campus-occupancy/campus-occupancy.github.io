@@ -5,6 +5,7 @@
 * [Mockup page Ideas](#mockup-page-ideas)
 * [Case Ideas](#case-ideas)
 * [User Guide](#user-guide)
+* [Website Link](#link-to-current-website)
 * [Milestone 1](#milestone-1-mockup-development)
 * [Beyond the Basic](#beyond-the-basic)
 
@@ -68,6 +69,7 @@ Once you are logged in, you can edit data by uploading a .csv file of your data 
 
 ## Milestone 1: Mockup development
 The goal of Milestone 1 was to start devoloping a rough version of the mockups provided in the above section.
+Here is a link to Milestone 1: https://github.com/campus-occupancy/campus-occupancy/projects/1
 
 ![](images/M1-page.png)
  
