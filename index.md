@@ -2,7 +2,7 @@
 * [Problem](#problem)
 * [Goals](#goals)
 * [Planned Additions to project](#planned-additions-to-project)
-* [Mockup page Ideas](#mockup-page-Ideas)
+* [Mockup page Ideas](#mockup-page-ideas)
 * [Case Ideas](#case-ideas)
 * [User Guide](#user-guide)
 * [Milestone 1](#milestone-1-mockup-development)
