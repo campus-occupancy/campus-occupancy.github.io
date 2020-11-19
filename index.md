@@ -51,14 +51,14 @@ You can select "Sign up" to go to the following page and register as a new user:
 ![](images/M1-SIGNUPPAGE.png)
 
 ### Data Page 
-After logging in, you are taken to the edit data page, which presents an import where you can view the data:
+After logging in, you are taken to the edit data page, which presents a table where you can view the data:
 
 
 ![](images/M1-DATAPAGEUSER.png)
 
 ### Edit Data page 
 
-Once you are logged in, you can edit data by uploading a .csv file of your data:
+Once you are logged in, you can edit data by uploading a .csv file of your data and generate the map:
 
 ![](images/M1-EDITDATAPAGE.png)
 
