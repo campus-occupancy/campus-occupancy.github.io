@@ -66,7 +66,7 @@ Once you are logged in, you can edit data by uploading a .csv file of your data 
 ## Milestone 1: Mockup development
 The goal of Milestone 1 was to start devoloping a rough version of the mockups provided in the above section.
 
-![](images/M1-EDITDATAPAGE.png)
+![](images/M1-page.png)
  
 ## Beyond the Basic:
 This application could be used to dispatch the campus security to monitor behavior if real-time data is used.  It could also be used to direct cleaning crews on areas that need extra attention at the end of the day.  The information collected on actual human traffic behavior, could be used to evaluate current emergency policies that the campus has in place including evacuation plans. 
