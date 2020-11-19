@@ -68,7 +68,10 @@ Once you are logged in, you can edit data by uploading a .csv file of your data 
 
 ![](images/M1-EDITDATAPAGE.png)
 
-## Milestone 1: Mockup development
+## Development history:
+The campus occupancy project followed the [Issue Driven Project Management Practices](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/).
+
+### Milestone 1: Mockup development
 The goal of Milestone 1 was to start devoloping a rough version of the mockups provided in the above section.
 [Here is a link to Milestone 1](https://github.com/campus-occupancy/campus-occupancy/projects/1)
 
