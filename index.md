@@ -76,6 +76,9 @@ The goal of Milestone 1 was to start devoloping a rough version of the mockups p
 
 ![](images/M1-page.png)
  
+### Milestone 2:
+ [Here is a link to Milestone 2](https://github.com/campus-occupancy/campus-occupancy/projects/2)
+ 
 ## Beyond the Basic:
 This application could be used to dispatch the campus security to monitor behavior if real-time data is used.  It could also be used to direct cleaning crews on areas that need extra attention at the end of the day.  The information collected on actual human traffic behavior, could be used to evaluate current emergency policies that the campus has in place including evacuation plans. 
 Possible additional uses for this application include it being used as a framework for other facilities (schools, malls, public facilities) to monitor human traffic and group sizes.  Additionally it would be beneficial to have the application be rendered in a three dimensional view, so that multi-level facilities can see exactly where the groups are. 
