@@ -5,7 +5,6 @@
 * [Mockup page Ideas](#mockup-page-ideas)
 * [Case Ideas](#case-ideas)
 * [User Guide](#user-guide)
-* [Website Link](#link-to-current-website)
 * [Development history](#development-history)
 * [Beyond the Basic](#beyond-the-basic)
 * [Contact Us](#contact-us)
