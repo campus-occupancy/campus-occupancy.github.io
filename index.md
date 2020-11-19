@@ -1,9 +1,9 @@
 ## Table of contents
 * [Overview](#Overview)
 * [User Guide](#User-Guide)
-* [Deployment History](#MileStone-1)
-* [Community Feedback](#)
-* [Contact Us](#Team-Members)
+* [Deployment History](#Developement-History)
+* [Community Feedback](#Community-Feedback)
+* [Contact Us](#Contact-Us)
 
 ## Overview 
 ### Problem:
@@ -43,3 +43,7 @@ Possible additional uses for this application include it being used as a framewo
 ## Developement History
 ### MileStone 1
 In this first Milestone we focused on creating the page mock ups for our app. Here is the link to our Milestone 1 [project board](https://github.com/campus-occupancy/campus-occupancy/projects/1). To see our application [click here](http://164.90.146.203/).
+
+## Communtiy FeedBack
+## Contact Us
+
