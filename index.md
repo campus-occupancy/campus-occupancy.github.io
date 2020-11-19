@@ -38,7 +38,7 @@ The landing page will display the login. After logging in as an admin, the page 
 This section provides the current walkthrough of the campus visualization user interface and its capabilities.
 
 ### Link to Current Website: 
-http://164.90.146.203/#/
+[UHManoaCampusOccupancy](http://164.90.146.203/#/)
 
 ### Landing Page
 
@@ -70,7 +70,7 @@ Once you are logged in, you can edit data by uploading a .csv file of your data 
 
 ## Milestone 1: Mockup development
 The goal of Milestone 1 was to start devoloping a rough version of the mockups provided in the above section.
-Here is a link to Milestone 1: https://github.com/campus-occupancy/campus-occupancy/projects/1
+[Here is a link to Milestone 1](https://github.com/campus-occupancy/campus-occupancy/projects/1)
 
 ![](images/M1-page.png)
  
