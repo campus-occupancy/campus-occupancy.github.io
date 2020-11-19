@@ -35,6 +35,9 @@ The landing page will display the login. After logging in as an admin, the page 
 
 This section provides the current walkthrough of the campus visualization user interface and its capabilities.
 
+### Link to Current Website: 
+http://164.90.146.203/#/
+
 ### Landing Page
 
 The landing page is presented to users when they visit the top-level URL to the site.
