@@ -6,7 +6,7 @@
 * [Case Ideas](#case-ideas)
 * [User Guide](#user-guide)
 * [Website Link](#link-to-current-website)
-* [Milestone 1](#milestone-1-mockup-development)
+* [Development history](#development-history)
 * [Beyond the Basic](#beyond-the-basic)
 * [Contact Us](#contact-us)
 
