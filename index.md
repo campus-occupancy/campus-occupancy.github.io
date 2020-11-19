@@ -44,6 +44,24 @@ The landing page is presented to users when they visit the top-level URL to the 
 Click on the "Login" button in the middle of the screen, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
 
 ![](images/M1-LOGINPAGE.png)
+
+### Sign up Page 
+You can select "Sign up" to go to the following page and register as a new user:
+
+![](images/M1-SIGNUPPAGE.png)
+
+### Data Page 
+After logging in, you are taken to the edit data page, which presents an import where you can view the data:
+
+
+![](images/M1-DATAPAGEUSER.png)
+
+### Edit Data page 
+
+Once you are logged in, you can edit data by uploading a .csv file of your data:
+
+![](images/M1-EDITDATAPAGE.png)
+
  
 ## Beyond the Basic:
 This application could be used to dispatch the campus security to monitor behavior if real-time data is used.  It could also be used to direct cleaning crews on areas that need extra attention at the end of the day.  The information collected on actual human traffic behavior, could be used to evaluate current emergency policies that the campus has in place including evacuation plans. 
