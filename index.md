@@ -4,6 +4,7 @@
 * [Planned Additions to project](#planned-additions-to-project)
 * [Mockup page Ideas](#mockup-page-Ideas)
 * [Case Ideas](#case-ideas)
+* [User Guide](#user-guide)
 * [Beyond the Basic](#beyond-the-basic)
 
 ## Problem:
@@ -28,6 +29,16 @@ Admin page displays the visualizations occupancy of the campus.
 The landing page will display the login. After logging in as an admin, the page is directed to the admin page. In this page it will display the visualized occupancy of the campus. There will be options for the admin user such as to edit or add data.
 
 ![](images/ADMIN-PAGE.jpg)
+
+## User Guide
+
+This section provides the current walkthrough of the campus visualization user interface and its capabilities.
+
+### Landing Page
+
+The landing page is presented to users when they visit the top-level URL to the site.
+
+![](images/landing-page.png)
  
 ## Beyond the Basic:
 This application could be used to dispatch the campus security to monitor behavior if real-time data is used.  It could also be used to direct cleaning crews on areas that need extra attention at the end of the day.  The information collected on actual human traffic behavior, could be used to evaluate current emergency policies that the campus has in place including evacuation plans. 
