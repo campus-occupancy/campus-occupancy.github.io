@@ -5,7 +5,7 @@
 * [Mockup page Ideas](#mockup-page-Ideas)
 * [Case Ideas](#case-ideas)
 * [User Guide](#user-guide)
-* [Milestone 1](#milestone-1)
+* [Milestone 1](#milestone-1-mockup-development)
 * [Beyond the Basic](#beyond-the-basic)
 
 ## Problem:
