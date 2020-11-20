@@ -85,5 +85,7 @@ Possible additional uses for this application include it being used as a framewo
 
 ## Contact Us
 [Caliana Fortin](https://calianafortin.github.io/)
+
 [Fred Straub](https://fredstraub.github.io/)
+
 [Marcos Buccat](https://buccatm.github.io/)
