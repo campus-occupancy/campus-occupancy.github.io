@@ -84,3 +84,6 @@ This application could be used to dispatch the campus security to monitor behavi
 Possible additional uses for this application include it being used as a framework for other facilities (schools, malls, public facilities) to monitor human traffic and group sizes.  Additionally it would be beneficial to have the application be rendered in a three dimensional view, so that multi-level facilities can see exactly where the groups are. 
 
 ## Contact Us
+[Caliana Fortin](https://calianafortin.github.io/)
+[Fred Straub](https://fredstraub.github.io/)
+[Marcos Buccat](https://buccatm.github.io/)
