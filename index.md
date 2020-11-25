@@ -5,6 +5,7 @@
 * [Mockup page Ideas](#mockup-page-ideas)
 * [Case Ideas](#case-ideas)
 * [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 * [Development history](#development-history)
 * [Beyond the Basic](#beyond-the-basic)
 * [Contact Us](#contact-us)
@@ -66,6 +67,13 @@ After logging in, you are taken to the edit data page, which presents a table wh
 Once you are logged in, you can edit data by uploading a .csv file of your data and generate the map:
 
 ![](images/M1-EDITDATAPAGE.png)
+
+
+## Developer Guide: 
+This section provides information to any Meteor developers intrested in using this code for their own developement.
+
+### Installation
+
 
 ## Development history:
 The campus occupancy project followed the [Issue Driven Project Management Practices](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/).
