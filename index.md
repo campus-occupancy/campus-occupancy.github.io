@@ -73,7 +73,29 @@ Once you are logged in, you can edit data by uploading a .csv file of your data 
 This section provides information to any Meteor developers intrested in using this code for their own developement.
 
 ### Installation
+Install [Meteor](https://www.meteor.com/install).
 
+Then go to [https://github.com/campus-occupancy/campus-occupancy](https://github.com/campus-occupancy/campus-occupancy) and click on the Green Code button to download a new GitHub repo to your local file system. Using the [Github Desktop](https://desktop.github.com/) is recomended for both Windows or MacOS users.
+
+cd into the app directory and install third party libraries with:
+``````````
+$ meteor npm install
+``````````
+
+### Run the System
+After installing the libraries, you may run the application with:
+`````````
+$ meteor npm run start
+`````````
+
+### View the app
+Once the app is running, the application will appear at [http://localhost:3000/](http://localhost:3000/).
+
+### Run ESLint
+To verify that your code complies with the coding standards, run the ESLint over the code in the imports/directory with:
+````````
+meteor npm run lint
+````````
 
 ## Development history:
 The campus occupancy project followed the [Issue Driven Project Management Practices](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/).
