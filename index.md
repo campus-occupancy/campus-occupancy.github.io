@@ -22,13 +22,13 @@ Campus Occupancy is an example web application that provides the visualization o
 We plan to add ease of access features to make the web application easier for the user. One of these additions would be a slider which filters the population of the building from most dense to least dense. 
  
  
-### Mockup page Ideas:
+### Mockup page Ideas
 Implement visualizations with the D3 JavaScript library. 
 Admin page displays the visualizations occupancy of the campus.
 
 ![](images/FRONT-PAGE.jpg)
 
-### Case Ideas:
+### Case Ideas
 The landing page will display the login. After logging in as an admin, the page is directed to the admin page. In this page it will display the visualized occupancy of the campus. There will be options for the admin user such as to edit or add data.
 
 ![](images/ADMIN-PAGE.jpg)
@@ -59,7 +59,6 @@ You can select "Sign up" to go to the following page and register as a new user:
 ### Data Page 
 After logging in, you are taken to the edit data page, which presents a table where you can view the data:
 
-
 ![](images/M1-DATAPAGEUSER.png)
 
 ### Edit Data page 
@@ -70,7 +69,7 @@ Once you are logged in, you can edit data by uploading a .csv file of your data 
 
 ## Community FeedBack
 
-## Developer Guide: 
+## Developer Guide 
 This section provides information to any Meteor developers intrested in using this code for their own developement.
 
 ### Installation
@@ -98,7 +97,7 @@ To verify that your code complies with the coding standards, run the ESLint over
 meteor npm run lint
 ````````
 
-## Development history:
+## Development history
 The campus occupancy project followed the [Issue Driven Project Management Practices](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/).
 
 ### Milestone 1: Mockup development
@@ -108,6 +107,7 @@ The goal of Milestone 1 was to start devoloping a rough version of the mockups p
 ![](images/M1-page.png)
  
 ### Milestone 2:
+The goal of Milestone 2 was to improve the functionality and quality of the application. 
  [Here is a link to Milestone 2](https://github.com/campus-occupancy/campus-occupancy/projects/2)
  
 ## Beyond the Basic:
