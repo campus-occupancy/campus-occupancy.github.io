@@ -1,34 +1,34 @@
 ## Table of contents
-* [Problem](#problem)
-* [Goals](#goals)
-* [Planned Additions to project](#planned-additions-to-project)
-* [Mockup page Ideas](#mockup-page-ideas)
-* [Case Ideas](#case-ideas)
+* [Overview](#overview)
 * [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Development history](#development-history)
 * [Beyond the Basic](#beyond-the-basic)
 * [Contact Us](#contact-us)
 
-## Problem:
+## Overview
+
+### Problem
+
 The challenge is to develop a way for the college to visualize occupancy of the campus.  The three current purposes are to assist in scheduling on the campus, assess social distancing and group density, and help with long term facility planning.  The application is intended for the university administration. The data available is anonymized to protect the identities of the visitors to the campus. 
 
-## Goals
+### Goals
 
 Campus Occupancy is an example web application that provides the visualization of the amount of people in a building. Basically the main goal is to have a map that can also show indoor grouping of visitors. 
 
-## Planned Additions to project
+### Planned Additions to project
 
 We plan to add ease of access features to make the web application easier for the user. One of these additions would be a slider which filters the population of the building from most dense to least dense. 
  
  
-## Mockup page Ideas:
+### Mockup page Ideas:
 Implement visualizations with the D3 JavaScript library. 
 Admin page displays the visualizations occupancy of the campus.
 
 ![](images/FRONT-PAGE.jpg)
 
-## Case Ideas:
+### Case Ideas:
 The landing page will display the login. After logging in as an admin, the page is directed to the admin page. In this page it will display the visualized occupancy of the campus. There will be options for the admin user such as to edit or add data.
 
 ![](images/ADMIN-PAGE.jpg)
@@ -68,6 +68,7 @@ Once you are logged in, you can edit data by uploading a .csv file of your data 
 
 ![](images/M1-EDITDATAPAGE.png)
 
+## Community FeedBack
 
 ## Developer Guide: 
 This section provides information to any Meteor developers intrested in using this code for their own developement.
