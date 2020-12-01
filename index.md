@@ -6,6 +6,8 @@
 * [Beyond the Basic](#beyond-the-basic)
 * [Contact Us](#contact-us)
 
+![ci-badge](https://github.com/campus-occupancy/campus-occupancy/workflows/ci-campus-occupancy/badge.svg)
+
 ## Overview
 
 ### Problem
