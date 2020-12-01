@@ -120,6 +120,8 @@ The goal of Milestone 1 was to start devoloping a rough version of the mockups p
 The goal of Milestone 2 was to improve the functionality and quality of the application.
  [Here is a link to Milestone 2](https://github.com/campus-occupancy/campus-occupancy/projects/2)
  
+ ![](images/M2-milestone2-project.PNG)
+ 
 ### Milestone 3: 
 [Here is a link to Milestone 3](https://github.com/campus-occupancy/campus-occupancy/projects/3)
  
