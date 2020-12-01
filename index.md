@@ -1,5 +1,3 @@
-![ci-badge](https://github.com/campus-occupancy/campus-occupancy/workflows/ci-campus-occupancy/badge.svg)
-
 ## Table of contents
 * [Overview](#overview)
 * [User Guide](#user-guide)
@@ -14,6 +12,8 @@
 [UHManoaCampusOccupancy](https://campus-occupancy.top/#/)
 ### Link to Source Code:
 [Source Code](https://github.com/campus-occupancy/campus-occupancy)
+
+![ci-badge](https://github.com/campus-occupancy/campus-occupancy/workflows/ci-campus-occupancy/badge.svg)
 ## Overview
 
 ### Problem
@@ -116,14 +116,15 @@ The goal of Milestone 1 was to start devoloping a rough version of the mockups p
 
 ![](images/M1-page.png)
  
-### Milestone 2:
-The goal of Milestone 2 was to improve the functionality and quality of the application. 
+### Milestone 2: Improvement to the System
+The goal of Milestone 2 was to improve the functionality and quality of the application.
  [Here is a link to Milestone 2](https://github.com/campus-occupancy/campus-occupancy/projects/2)
  
-### Milestone 3:
+### Milestone 3: 
+[Here is a link to Milestone 3](https://github.com/campus-occupancy/campus-occupancy/projects/3)
  
 ## Beyond the Basic:
-This application could be used to dispatch the campus security to monitor behavior if real-time data is used.  It could also be used to direct cleaning crews on areas that need extra attention at the end of the day.  The information collected on actual human traffic behavior, could be used to evaluate current emergency policies that the campus has in place including evacuation plans. 
+This application could be used to dispatch the campus security to monitor behavior if real-time data is used.  It could also be used to direct cleaning crews on areas that need extra attention at the end of the day. The information collected on actual human traffic behavior, could be used to evaluate current emergency policies that the campus has in place including evacuation plans. 
 Possible additional uses for this application include it being used as a framework for other facilities (schools, malls, public facilities) to monitor human traffic and group sizes.  Additionally it would be beneficial to have the application be rendered in a three dimensional view, so that multi-level facilities can see exactly where the groups are. 
 
 ## Contact Us
@@ -132,7 +133,6 @@ Possible additional uses for this application include it being used as a framewo
 
 
 [Fred Straub](https://fredstraub.github.io/) 
-
 
 
 [Marcos Buccat](https://buccatm.github.io/) 
