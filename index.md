@@ -1,3 +1,5 @@
+![ci-badge](https://github.com/campus-occupancy/campus-occupancy/workflows/ci-campus-occupancy/badge.svg)
+
 ## Table of contents
 * [Overview](#overview)
 * [User Guide](#user-guide)
@@ -6,7 +8,6 @@
 * [Beyond the Basic](#beyond-the-basic)
 * [Contact Us](#contact-us)
 
-![ci-badge](https://github.com/campus-occupancy/campus-occupancy/workflows/ci-campus-occupancy/badge.svg)
 
 ## Overview
 
