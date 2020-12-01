@@ -1,7 +1,6 @@
 ## Table of contents
 * [Overview](#overview)
 * [User Guide](#user-guide)
-* [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Development history](#development-history)
 * [Beyond the Basic](#beyond-the-basic)
@@ -38,7 +37,7 @@ The landing page will display the login. After logging in as an admin, the page 
 This section provides the current walkthrough of the campus visualization user interface and its capabilities.
 
 ### Link to Current Website: 
-[UHManoaCampusOccupancy](http://164.90.146.203/#/)
+[UHManoaCampusOccupancy](https://campus-occupancy.top/#/)
 
 ### Landing Page
 
@@ -72,23 +71,22 @@ Once you are logged in, you can edit data by uploading a .csv file of your data 
 
 ![](images/M1-EDITDATAPAGE.png)
 
-## Community FeedBack
 
 ## Developer Guide 
 This section provides information to any Meteor developers intrested in using this code for their own developement.
 
 ### Installation
-Install [Meteor](https://www.meteor.com/install).
+First, install [Meteor](https://www.meteor.com/install).
 
-Then go to [https://github.com/campus-occupancy/campus-occupancy](https://github.com/campus-occupancy/campus-occupancy) and click on the Green Code button to download a new GitHub repo to your local file system. Using the [Github Desktop](https://desktop.github.com/) is recomended for both Windows or MacOS users.
+Second go to [https://github.com/campus-occupancy/campus-occupancy](https://github.com/campus-occupancy/campus-occupancy) and click on the Green "Code" button to download the sources as a Zip file to create a copy of the application on your local computer. Alternatively, you may fork this repo.  
 
-cd into the app directory and install third party libraries with:
+Third, cd into the campus-occupancy/app directory and install the libraries with:
 ``````````
 $ meteor npm install
 ``````````
 
 ### Run the System
-After installing the libraries, you may run the application with:
+After downloading a copy of the application and installing the libraries, you can run the system with:
 `````````
 $ meteor npm run start
 `````````
