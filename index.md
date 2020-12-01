@@ -54,7 +54,7 @@ Click on the "Login" button in the middle of the screen, then select "Sign in" t
 ![](images/M2-updated-login-page.PNG)
 
 ### Sign up Page 
-You can select "Sign up" to go to the following page and register as a new user:
+You can click on "click here to Register" to go to the following page and register as a new user:
 
 ![](images/M2-updated-sign-up-page.PNG)
 
