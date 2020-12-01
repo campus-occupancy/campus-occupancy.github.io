@@ -3,6 +3,7 @@
 ## Table of contents
 * [Overview](#overview)
 * [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Development history](#development-history)
 * [Beyond the Basic](#beyond-the-basic)
@@ -102,6 +103,8 @@ To verify that your code complies with the coding standards, run the ESLint over
 ````````
 meteor npm run lint
 ````````
+## Community Feedback
+If you would like to help us improve the system, please take a couple of minutes to fill out the [Campus Occupancy Form](https://docs.google.com/forms/d/e/1FAIpQLSfnveBnx1LZj3YNTj0HMstZ6XzbBA0aZ_pJ9VzaPV4QQ84img/viewform). We are intrested in your experiance using the application.
 
 ## Development history
 The campus occupancy project followed the [Issue Driven Project Management Practices](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/).
