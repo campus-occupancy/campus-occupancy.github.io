@@ -7,13 +7,6 @@
 * [Beyond the Basic](#beyond-the-basic)
 * [Contact Us](#contact-us)
 
-
-### Link to Current Website: 
-[UHManoaCampusOccupancy](https://campus-occupancy.top/#/)
-### Link to Source Code:
-[Source Code](https://github.com/campus-occupancy/campus-occupancy)
-
-![ci-badge](https://github.com/campus-occupancy/campus-occupancy/workflows/ci-campus-occupancy/badge.svg)
 ## Overview
 
 ### Problem
@@ -80,6 +73,7 @@ Once you are logged in, you can edit data by uploading a .csv file of your data 
 ## Developer Guide 
 This section provides information to any Meteor developers intrested in using this code for their own developement.
 
+
 ### Installation
 First, install [Meteor](https://www.meteor.com/install).
 
@@ -104,6 +98,20 @@ To verify that your code complies with the coding standards, run the ESLint over
 ````````
 meteor npm run lint
 ````````
+
+### Link to Current Website: 
+[UHManoaCampusOccupancy](https://campus-occupancy.top/#/)
+
+### Link to Source Code:
+Here is the link to the application repo containing the [Source Code](https://github.com/campus-occupancy/campus-occupancy).
+
+### Continuous Integration
+![ci-badge](https://github.com/campus-occupancy/campus-occupancy/workflows/ci-campus-occupancy/badge.svg)
+
+Campus-Occupancy uses GitHub Actions to automatically run ESLint and TestCafe each time a commit is done to the master Branch. You can see the results of all the workflow at [here](automatically ). 
+
+The workflow file for this application is defined at [.github/workflow/ci.yml](https://github.com/campus-occupancy/campus-occupancy/tree/master/.github/workflows).
+
 ## Community Feedback
 If you would like to help us improve the system, please take a couple of minutes to fill out the [Campus Occupancy Form](https://docs.google.com/forms/d/e/1FAIpQLSfnveBnx1LZj3YNTj0HMstZ6XzbBA0aZ_pJ9VzaPV4QQ84img/viewform). We are intrested in your experiance using the application.
 
