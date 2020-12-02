@@ -99,11 +99,16 @@ To verify that your code complies with the coding standards, run the ESLint over
 meteor npm run lint
 ````````
 
-### Link to Current Website: 
-[UHManoaCampusOccupancy](https://campus-occupancy.top/#/)
+### End to End Testing 
+Campus Occupancy uses [TestCafe](https://devexpress.github.io/testcafe/) to provide the automated end-to-end testing. The Campus Occupancy test code employs the page model design.
 
-### Link to Source Code:
-Here is the link to the application repo containing the [Source Code](https://github.com/campus-occupancy/campus-occupancy).
+To run the end-to-end test in developement mode, first run the campus occupancy application. Then on a separate console window invoke:
+`````
+meteor npm run testcafe-development
+`````
+A browser will appear to display the each of the test cases. If the test is successful, on the console window all the test cases should have a green check mark.
+
+Should you need to run the testcafe in "continuous integration mode", first check that the campus occupancy application is not running. Then, invoke `meteor npm run testcafe-ci`. No browser will appear but you can check the console to see if the test passed.
 
 ### Continuous Integration
 ![ci-badge](https://github.com/campus-occupancy/campus-occupancy/workflows/ci-campus-occupancy/badge.svg)
@@ -111,6 +116,13 @@ Here is the link to the application repo containing the [Source Code](https://gi
 Campus-Occupancy uses GitHub Actions to automatically run ESLint and TestCafe each time a commit is done to the master Branch. You can see the results of all the workflow at [here](automatically ). 
 
 The workflow file for this application is defined at [.github/workflow/ci.yml](https://github.com/campus-occupancy/campus-occupancy/tree/master/.github/workflows).
+
+### Link to Current Website: 
+[UHManoaCampusOccupancy](https://campus-occupancy.top/#/)
+
+### Link to Source Code:
+Here is the link to the application repo containing the [Source Code](https://github.com/campus-occupancy/campus-occupancy).
+
 
 ## Community Feedback
 If you would like to help us improve the system, please take a couple of minutes to fill out the [Campus Occupancy Form](https://docs.google.com/forms/d/e/1FAIpQLSfnveBnx1LZj3YNTj0HMstZ6XzbBA0aZ_pJ9VzaPV4QQ84img/viewform). We are intrested in your experiance using the application.
