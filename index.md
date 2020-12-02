@@ -186,8 +186,7 @@ The workflow file for this application is defined at [.github/workflow/ci.yml](h
 Here is the link to the application repo containing the [Source Code](https://github.com/campus-occupancy/campus-occupancy).
 
 ### Link to the Campus Occupancy Repositories:
-Here is the link Containing the organization [Repositories](https://github.com/campus-occupancy).
-
+Here is the link to the organization [Repositories](https://github.com/campus-occupancy).
 
 
 ## Community Feedback
