@@ -7,6 +7,7 @@
 * [Beyond the Basic](#beyond-the-basic)
 * [Contact Us](#contact-us)
 
+
 ## Overview
 
 ### Problem
@@ -32,6 +33,7 @@ Admin page displays the visualizations occupancy of the campus.
 The landing page will display the login. After logging in as an admin, the page is directed to the admin page. In this page it will display the visualized occupancy of the campus. There will be options for the admin user such as to edit or add data.
 
 ![](images/ADMIN-PAGE.jpg)
+
 
 ## User Guide
 
@@ -68,6 +70,7 @@ After logging in, you are taken to the edit data page, which presents a table wh
 Once you are logged in, you can edit data by uploading a .csv file of your data and generate the map:
 
 ![](images/M1-EDITDATAPAGE.png)
+
 
 
 ## Developer Guide 
@@ -124,8 +127,11 @@ The workflow file for this application is defined at [.github/workflow/ci.yml](h
 Here is the link to the application repo containing the [Source Code](https://github.com/campus-occupancy/campus-occupancy).
 
 
+
 ## Community Feedback
 If you would like to help us improve the system, please take a couple of minutes to fill out the [Campus Occupancy Form](https://docs.google.com/forms/d/e/1FAIpQLSfnveBnx1LZj3YNTj0HMstZ6XzbBA0aZ_pJ9VzaPV4QQ84img/viewform). We are intrested in your experiance using the application.
+
+
 
 ## Development history
 The campus occupancy project followed the [Issue Driven Project Management Practices](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/).
@@ -144,10 +150,13 @@ The goal of Milestone 2 was to improve the functionality and quality of the appl
  
 ### Milestone 3: 
 [Here is a link to Milestone 3](https://github.com/campus-occupancy/campus-occupancy/projects/3)
- 
+
+
 ## Beyond the Basic:
 This application could be used to dispatch the campus security to monitor behavior if real-time data is used.  It could also be used to direct cleaning crews on areas that need extra attention at the end of the day. The information collected on actual human traffic behavior, could be used to evaluate current emergency policies that the campus has in place including evacuation plans. 
 Possible additional uses for this application include it being used as a framework for other facilities (schools, malls, public facilities) to monitor human traffic and group sizes.  Additionally it would be beneficial to have the application be rendered in a three dimensional view, so that multi-level facilities can see exactly where the groups are. 
+
+
 
 ## Contact Us
 
