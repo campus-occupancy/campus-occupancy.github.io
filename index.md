@@ -47,21 +47,15 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 
 ### Sign in Page 
-Click on the "Login" button in the middle of the screen, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
+Click on the "Login" button in the middle of the screen to go to sign in page. You must have been previously registered with the system to login :
 
 ![](images/M2-updated-login-page.PNG)
 
 
 ### Sign up Page 
-You can click on "click here to Register" to go to the following page and register as a new user:
+At the sign in page click on "click here to Register" to go to the following page and register as a new user:
 
 ![](images/M2-updated-sign-up-page.PNG)
-
-
-### Sign Out Page
-After loggin out, you are given the option to go to the login or the landing page.
-
-![](images/M2-sign-out.PNG)
 
 
 ### Data Page 
@@ -76,6 +70,11 @@ Once you are logged in, you can edit data by uploading a .csv file of your data 
 
 ![](images/M1-EDITDATAPAGE.png)
 
+
+### Sign Out Page
+After loggin out, you are given the option to go to the login or the landing page.
+
+![](images/M2-sign-out.PNG)
 
 
 ## Developer Guide 
