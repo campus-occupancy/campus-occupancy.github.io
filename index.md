@@ -41,9 +41,9 @@ This section provides the current walkthrough of the campus visualization user i
 
 ### Landing Page
 
-The landing page is presented to users when they visit the top-level URL to the site.
+The landing page is presented to users when they visit the top-level URL to the site. In this page the user is able to see the map and the visualized data.
 
-![](images/M1-LANDINGPAGE.png)
+![](images/M2-updated-landing-page.png)
 
 ### Sign in Page 
 Click on the "Login" button in the middle of the screen, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
