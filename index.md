@@ -151,7 +151,7 @@ The goal of Milestone 1 was to start devoloping a rough version of the mockups p
 The goal of Milestone 2 was to improve the functionality and quality of the application. So for Milestone 2, the goal was to get the map to visualize our data. Then test our system by implementing TestCafe "availability" tests for all our pages.
  [Here is a link to Milestone 2](https://github.com/campus-occupancy/campus-occupancy/projects/2)
  
- ![](images/M2-milestone2-project.PNG)
+ ![](images/M2-milestone2-project-updated.PNG)
  
 ### Milestone 3: 
 [Here is a link to Milestone 3](https://github.com/campus-occupancy/campus-occupancy/projects/3)
