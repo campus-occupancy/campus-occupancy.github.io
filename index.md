@@ -107,6 +107,16 @@ To verify that your code complies with the coding standards, run the ESLint over
 meteor npm run lint
 ````````
 
+Here is a sample output when no ESLint errors were detected:
+````
+$ meteor npm run lint
+
+> bowfolios@ lint C:\Users\marco\github\campus-occupancy\app
+> eslint --quiet --ext .jsx --ext .js ./imports ./tests
+
+$
+````
+
 ### End to End Testing 
 Campus Occupancy uses [TestCafe](https://devexpress.github.io/testcafe/) to provide the automated end-to-end testing. The Campus Occupancy test code employs the page model design.
 
@@ -115,8 +125,53 @@ To run the end-to-end test in developement mode, first run the campus occupancy 
 meteor npm run testcafe-development
 `````
 A browser will appear to display the each of the test cases. If the test is successful, on the console window all the test cases should have a green check mark.
+Here is a sample output: 
+````
+$ meteor npm run testcafe-development
 
-Should you need to run the testcafe in "continuous integration mode", first check that the campus occupancy application is not running. Then, invoke `meteor npm run testcafe-ci`. No browser will appear but you can check the console to see if the test passed.
+> bowfolios@ testcafe-development C:\Users\marco\github\campus-occupancy\app
+> testcafe chrome tests/*.testcafe.js
+
+ Running tests in:
+ - Chrome 87.0.4280.66 / Windows 10
+
+ Campus-Occupancy localhost test with default db
+ √ Test that landing page shows up
+ √ Test that the login button at landing page works
+ √ Test that signin and signout work
+ √ Test that sign out home button work
+ √ Test that sign out signin button work
+ √ Test that signup page, then logout works
+ √ Test that data page displays
+ √ Test that data page displays
+
+
+ 8 passed (51s)
+````
+
+You can also run the testcafe tests in "continuous integration mode". To do this, first check that the campus occupancy application is not running. Then, invoke `meteor npm run testcafe-ci`. No browser will appear but you can check the console to see if the test passed. Here is a sample output:
+````
+$ meteor npm run testcafe-ci
+
+> bowfolios@ testcafe-ci C:\Users\marco\github\campus-occupancy\app
+> testcafe chrome:headless tests/*.testcafe.js -q --app "meteor npm run start"
+
+ Running tests in:
+ - Chrome 87.0.4280.66 / Windows 10
+
+ Campus-Occupancy localhost test with default db
+ √ Test that landing page shows up
+ √ Test that the login button at landing page works
+ √ Test that signin and signout work
+ √ Test that sign out home button work
+ √ Test that sign out signin button work
+ √ Test that signup page, then logout works
+ √ Test that data page displays
+ √ Test that data page displays
+
+
+ 8 passed (54s)
+````
 
 ### Continuous Integration
 ![ci-badge](https://github.com/campus-occupancy/campus-occupancy/workflows/ci-campus-occupancy/badge.svg)
