@@ -102,9 +102,9 @@ $ meteor npm run start
 Once the app is running, the application will appear at [http://localhost:3000/](http://localhost:3000/).
 
 ### Run ESLint
-To verify that your code complies with the coding standards, run the ESLint over the code in the imports/directory with:
+To verify that your code complies with the coding standards, invoke ESLint from the command line with:
 ````````
-meteor npm run lint
+$ meteor npm run lint
 ````````
 
 Here is a sample output when no ESLint errors were detected:
@@ -122,7 +122,7 @@ Campus Occupancy uses [TestCafe](https://devexpress.github.io/testcafe/) to prov
 
 To run the end-to-end test in developement mode, first run the campus occupancy application. Then on a separate console window invoke:
 `````
-meteor npm run testcafe-development
+$ meteor npm run testcafe-development
 `````
 A browser will appear to display the each of the test cases. If the test is successful, on the console window all the test cases should have a green check mark.
 Here is a sample output: 
