@@ -113,7 +113,7 @@ Should you need to run the testcafe in "continuous integration mode", first chec
 ### Continuous Integration
 ![ci-badge](https://github.com/campus-occupancy/campus-occupancy/workflows/ci-campus-occupancy/badge.svg)
 
-Campus-Occupancy uses GitHub Actions to automatically run ESLint and TestCafe each time a commit is done to the master Branch. You can see the results of all the workflow at [here](automatically ). 
+Campus-Occupancy uses GitHub Actions to automatically run ESLint and TestCafe each time a commit is done to the master Branch. You can see the results of all the workflow [here](https://github.com/campus-occupancy/campus-occupancy/actions?query=workflow%3Aci-campus-occupancy). 
 
 The workflow file for this application is defined at [.github/workflow/ci.yml](https://github.com/campus-occupancy/campus-occupancy/tree/master/.github/workflows).
 
