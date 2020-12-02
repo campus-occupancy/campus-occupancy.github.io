@@ -65,7 +65,7 @@ After loggin out, you are given the option to go to the login or the landing pag
 
 
 ### Data Page 
-After logging in, you are taken to the edit data page, which presents a table where you can view the data:
+After logging in, you are taken to the data page, which presents the map that the user can interact with. A table will be displayed to view the data:
 
 ![](images/M2-updated-data-page.png)
 
