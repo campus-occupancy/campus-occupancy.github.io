@@ -70,7 +70,7 @@ After logging in or when you sign up for a new account, you are taken to the dat
 
 Click on the Import Data tab. In this page you can import data by uploading a .csv file. The cvs file must contain the dateTime, Unique, Building and Device :
 
-![](images/M1-EDITDATAPAGE.png)
+![](images/M3-Edit-page-datas.PNG)
 
 
 ## Developer Guide 
