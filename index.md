@@ -43,25 +43,27 @@ This section provides the current walkthrough of the campus visualization user i
 
 The landing page is presented to users when they visit the top-level URL to the site. In this page the user is able to see the map and the visualized data. Clicking on any one of the colored building will display a popup of the building name and the data. 
 
-![](images/M2-updated-landing-page.png)
+![](images/M3-Landing-Page-with-nav.PNG)
+![](images/M3-Landing-Page-with-footer.PNG)
 
 
 ### Sign in Page 
-Click on the "Login" button in the middle of the screen to go to sign in page. You must have been previously registered with the system to login :
+Click on the "Login" button to go to sign in page. You must have been previously registered with the system to login :
 
-![](images/M2-updated-login-page.PNG)
+![](images/M3-Login-page.PNG)
 
 
 ### Sign up Page 
-At the sign in page click on "click here to Register" to go to the following page and register as a new user:
+If you are a new user, at the sign in page click on "click here to Register" to go to the following page:
 
-![](images/M2-updated-sign-up-page.PNG)
+![](images/M3-Sign-up-page.PNG)
 
 
 ### Data Page 
 After logging in, you are taken to the data page, which presents the map that the user can interact with. A table will be displayed to view the data:
 
-![](images/M2-updated-data-page.png)
+![](images/M3-Home-page.PNG)
+![](images/M3-Home-page-datas.PNG)
 
 
 ### Edit Data page 
@@ -69,12 +71,6 @@ After logging in, you are taken to the data page, which presents the map that th
 Once you are logged in, you can edit data by uploading a .csv file of your data and generate the map:
 
 ![](images/M1-EDITDATAPAGE.png)
-
-
-### Sign Out Page
-After loggin out, you are given the option to go to the login or the landing page.
-
-![](images/M2-sign-out.PNG)
 
 
 ## Developer Guide 
