@@ -41,26 +41,26 @@ This section provides the current walkthrough of the campus visualization user i
 
 ### Landing Page
 
-The landing page is presented to users when they visit the top-level URL to the site. In this page the user is able to see the map and the visualized data. Clicking on any one of the colored building will display a popup of the building name and the data. 
+The landing page is presented to user when they visit the top-level URL to the site. In this page the user is able to see the map and the visualized data. Clicking on any one of the colored building will display a popup of the building name and the data. 
 
 ![](images/M3-Landing-Page-with-nav.PNG)
 ![](images/M3-Landing-Page-with-footer.PNG)
 
 
 ### Sign in Page 
-Click on the "Login" button to go to sign in page. You must have been previously registered with the system to login :
+Click on the "Login" button to go to Log in page and log in. You must have been previously registered with the system to login :
 
 ![](images/M3-Login-page.PNG)
 
 
 ### Sign up Page 
-If you are a new user, at the sign in page click on "click here to Register" to go to the following page:
+If you are a new user, at the log in page click on "click here to Register". Then Sign up for a new account :
 
 ![](images/M3-Sign-up-page.PNG)
 
 
 ### Data Page 
-After logging in, you are taken to the data page, which presents the map that the user can interact with. A table will be displayed to view the data:
+After logging in or when you sign up for a new account, you are taken to the data page, which presents the map that the user can interact with. In this page a map is presented with the table below it. The table presents the data and the user is able to interact with the map:
 
 ![](images/M3-Home-page.PNG)
 ![](images/M3-Home-page-datas.PNG)
@@ -68,7 +68,7 @@ After logging in, you are taken to the data page, which presents the map that th
 
 ### Edit Data page 
 
-Once you are logged in, you can edit data by uploading a .csv file of your data and generate the map:
+Click on the Import Data tab. In this page you can import data by uploading a .csv file. The cvs file must contain the dateTime, Unique, Building and Device :
 
 ![](images/M1-EDITDATAPAGE.png)
 
