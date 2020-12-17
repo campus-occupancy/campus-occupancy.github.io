@@ -206,6 +206,7 @@ The goal of Milestone 2 was to improve the functionality and quality of the appl
 ### Milestone 3: 
 [Here is a link to Milestone 3](https://github.com/campus-occupancy/campus-occupancy/projects/3)
 
+ ![](images/Milstone-3.PNG)
 
 ## Beyond the Basic:
 This application could be used to dispatch the campus security to monitor behavior if real-time data is used.  It could also be used to direct cleaning crews on areas that need extra attention at the end of the day. The information collected on actual human traffic behavior, could be used to evaluate current emergency policies that the campus has in place including evacuation plans. 
