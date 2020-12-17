@@ -186,6 +186,11 @@ Here is the link to the organization [Repositories](https://github.com/campus-oc
 ## Community Feedback
 If you would like to help us improve the system, please take a couple of minutes to fill out the [Campus Occupancy Form](https://docs.google.com/forms/d/e/1FAIpQLSfnveBnx1LZj3YNTj0HMstZ6XzbBA0aZ_pJ9VzaPV4QQ84img/viewform). We are intrested in your experiance using the application.
 
+Feedbacks that we received: 
+* Our styling looked messed up 
+* Have more functionality for the map
+* Add a loading to the page. There is no indactor that the if the page was still loading it s data.
+* show more accurate data based on the square footage of the building
 
 
 ## Development history
