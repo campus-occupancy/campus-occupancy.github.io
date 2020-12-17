@@ -158,8 +158,6 @@ $ meteor npm run testcafe-ci
  √ Test that landing page shows up
  √ Test that the login button at landing page works
  √ Test that signin and signout work
- √ Test that sign out home button work
- √ Test that sign out signin button work
  √ Test that signup page, then logout works
  √ Test that data page displays
  √ Test that data page displays
@@ -175,8 +173,8 @@ Campus-Occupancy uses GitHub Actions to automatically run ESLint and TestCafe ea
 
 The workflow file for this application is defined at [.github/workflow/ci.yml](https://github.com/campus-occupancy/campus-occupancy/tree/master/.github/workflows).
 
-### Link to Current Website: 
-[UHManoaCampusOccupancy](https://campus-occupancy.top/#/)
+## Deployment: 
+Link to running deployment of [UHManoaCampusOccupancy](https://campus-occupancy.top/#/).
 
 ### Link to Source Code:
 Here is the link to the application repo containing the [Source Code](https://github.com/campus-occupancy/campus-occupancy).
