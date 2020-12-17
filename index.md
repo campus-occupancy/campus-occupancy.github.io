@@ -3,6 +3,7 @@
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
+* [Deployment](#deployment)
 * [Development history](#development-history)
 * [Beyond the Basic](#beyond-the-basic)
 * [Contact Us](#contact-us)
@@ -187,11 +188,15 @@ Here is the link to the organization [Repositories](https://github.com/campus-oc
 ## Community Feedback
 If you would like to help us improve the system, please take a couple of minutes to fill out the [Campus Occupancy Form](https://docs.google.com/forms/d/e/1FAIpQLSfnveBnx1LZj3YNTj0HMstZ6XzbBA0aZ_pJ9VzaPV4QQ84img/viewform). We are intrested in your experiance using the application.
 
-Feedbacks that we received: 
-* Our styling looked messed up 
+### Feedbacks that we received: 
+* Our styling looked messed up and unappealing
+* more clarification to the app
 * Have more functionality for the map
-* Add a loading to the page. There is no indactor that the if the page was still loading it s data.
+* Add a loading to the page. There is no indactor that the if the page was still loading it is data.
 * show more accurate data based on the square footage of the building
+
+### Community FeedBack Summary : 
+Some of the feed backs we got was, our application did not look appealing and was confusing. When the user first ran the application, they had no idea what the map was for or how to interact with the map. Also they suggested that we add more features to the map, such as changing the data on certain times. When the user logged in, they definetly noticed a lag. For instance, when the page was still rendering the data there was no loading to indicate that the page was trying to load the data.
 
 
 ## Development history
