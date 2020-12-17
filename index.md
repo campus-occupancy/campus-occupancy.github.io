@@ -132,13 +132,12 @@ $ meteor npm run testcafe-development
 
  Campus-Occupancy localhost test with default db
  √ Test that landing page shows up
- √ Test that the login button at landing page works
+ √ Test Create New Account
+ √ est that the login button at landing page works
  √ Test that signin and signout work
- √ Test that sign out home button work
- √ Test that sign out signin button work
  √ Test that signup page, then logout works
- √ Test that data page displays
- √ Test that data page displays
+ √ Test that Data page displays
+ √ Test that Import data page displays
 
 
  8 passed (51s)
@@ -156,11 +155,12 @@ $ meteor npm run testcafe-ci
 
  Campus-Occupancy localhost test with default db
  √ Test that landing page shows up
- √ Test that the login button at landing page works
+ √ Test Create New Account
+ √ est that the login button at landing page works
  √ Test that signin and signout work
  √ Test that signup page, then logout works
- √ Test that data page displays
- √ Test that data page displays
+ √ Test that Data page displays
+ √ Test that Import data page displays
 
 
  8 passed (54s)
