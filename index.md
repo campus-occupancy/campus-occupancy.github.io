@@ -41,10 +41,11 @@ This section provides the current walkthrough of the campus visualization user i
 
 ### Landing Page
 
-The landing page is presented to user when they visit the top-level URL to the site. In this page the user is able to see the map and the visualized data. Clicking on any one of the colored building will display a popup of the building name and the data. 
+The landing page is presented to user when they visit the top-level URL to the site. In this page the user is able to see the map and the visualized data. Clicking on any one of the colored building will display a popup of the building name and the data. An extra feature was added to allow the user to select a Date Time and the data will appear for that time. 
 
 ![](images/M3-Landing-Page-with-nav.PNG)
 ![](images/M3-Landing-Page-with-footer.PNG)
+![](images/M3-Login-page-Date-Time(2).PNG)
 
 
 ### Sign in Page 
